@@ -1,4 +1,4 @@
-nombre = "andres"
+nombre = "Soy andres"
 apellido = "Ruiz"
 
-print ("Hola "+ nombre + " " + apellido + " ¿como estas?")
+print ("Hola "+ nombre + " " + apellido)
